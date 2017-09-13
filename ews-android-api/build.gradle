@@ -51,6 +51,7 @@ dependencies {
 
 	compile(files(repackageTask))
 	compile 'joda-time:joda-time:2.8'
+	compile group: 'com.github.rwitzel.streamflyer', name: 'streamflyer-core', version: '1.2.0'
 }
 
 jar {
