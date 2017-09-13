@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.apache.commons.io.input;
+package android.org.apache.commons.io.input;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
@@ -33,7 +33,7 @@ import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.apache.commons.io.ByteOrderMark;
+import android.org.apache.commons.io.ByteOrderMark;
 
 /**
  * Character stream that handles all the necessary Voodo to figure out the
